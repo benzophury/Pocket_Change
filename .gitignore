@@ -54,3 +54,11 @@ android/build/
 
 # Python scratch / icon generator
 .dart_tool/
+
+# Release APK binaries
+*.apk
+
+# Internal development docs
+ORIGINAL_REQUEST.md
+PROJECT.md
+TEST_INFRA.md
